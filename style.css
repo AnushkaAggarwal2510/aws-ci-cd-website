@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #232f3e;
+}
+
+h2 {
+    color: #ff9900;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
